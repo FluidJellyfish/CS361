@@ -1,0 +1,8 @@
+Cat,30,Red
+Dog,70,Orange
+Horse, 80, Brown
+Lizard, 20, Green
+Cow, 70, White
+Bird, 10, Yellow
+Rambo, 12, Mixed
+Barnaby, 3, Black
